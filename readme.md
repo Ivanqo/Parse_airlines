@@ -32,6 +32,7 @@
 - Flightradar24 API
 
 ## Запуск
+!!!В папке damp присутсвует выгрузка из бд flightbd и metabase_db!!!
 
 1. Клонируйте репозиторий:
 ```bash
