@@ -37,9 +37,9 @@
 ```bash
 git clone https://github.com/Ivanqo/aviation-dashboard.git
 cd aviation-dashboard
-
+```
 2. Запустите сервисы:
-
+```
 bash
 Copy
 docker-compose up -d
@@ -50,3 +50,4 @@ Metabase Local данные для входа:
     ivan.basenko.05@mail.ru
     MQZ-b7w-uHv-M7c
 PostgreSQL: postgres:5432 (логин/пароль: postgres/postgres)
+```
